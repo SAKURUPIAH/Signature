@@ -1,2 +1,2 @@
 # Signature
-Cara pembuatan signature request invoice sakurupiah payment gateway versi PHP
+Cara pembuatan signature request invoice sakurupiah payment gateway
